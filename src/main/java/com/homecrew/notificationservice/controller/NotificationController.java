@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/notifications")
 public class NotificationController {
 
-  @GetMapping("/test")
-  public String test() {
-    return "Notification Service is working";
-  }
+    @GetMapping("/test")
+    public String test() {
+        return "Notification Service is working";
+    }
 }
