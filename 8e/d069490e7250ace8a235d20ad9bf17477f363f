@@ -1,0 +1,23 @@
+src/main/java/com/homecrew/notificationservice/NotificationserviceApplication.java
+  s_3c23b0d2ddd584::t_eb2b37ece506f3 9-11
+src/main/java/com/homecrew/notificationservice/controller/NotificationController.java
+  s_3c23b0d2ddd584::t_199996f307d460 11-14
+src/test/java/com/homecrew/notificationservice/NotificationserviceApplicationTests.java
+  s_3c23b0d2ddd584::t_0ff2156d54add6 9-10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "8ed069490e7250ace8a235d20ad9bf17477f363f",
+  "prompts": {},
+  "sessions": {
+    "s_3c23b0d2ddd584": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b49a2721-dedb-4337-bc5d-60aefa1d7327",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
